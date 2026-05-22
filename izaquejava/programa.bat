@@ -1,0 +1,3 @@
+@echo.off
+echo executando o programa java....
+java -cp "c\users"
